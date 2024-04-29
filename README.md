@@ -6,7 +6,7 @@ Meu nome é Beatriz Toledo
 - Estou me desenvolvendo na linguagem JavaScript
 - Utilizo esse espaço para minha organização e compartilhamento dos meus projetos desenvolvidos
 
-   ### Você pode entrar em contato comigo 💜_heart
+   ### Você pode entrar em contato comigo 💜
 
 beatriz.pereira0239648@gmail.com
 
